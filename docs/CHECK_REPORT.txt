@@ -1,0 +1,21 @@
+LLM Wiki 專案檢查紀錄
+執行方式：python check.py
+檢查類型：本機靜態結構與來源引用完整性
+
+PASS | 至少五篇來源 | 6 篇
+PASS | 來源 ID 不重複 | 6 個 ID
+PASS | 來源 URL 完整 | 全部 HTTPS
+PASS | 資料片段可追溯 | 18 個片段
+PASS | 每篇三個檢索片段 | 每篇摘要 1 + 重點 2
+PASS | 簡報共十頁 | 10 頁
+PASS | 每頁有引用且可對應 Wiki | 10/10 頁
+PASS | 檔案存在：index.html | index.html
+PASS | 檔案存在：wiki.html | wiki.html
+PASS | 檔案存在：slides.html | slides.html
+PASS | 檔案存在：workflow.html | workflow.html
+PASS | 檔案存在：assets/style.css | assets/style.css
+PASS | 簡報切換控制 | 按鈕+鍵盤
+PASS | Wiki 搜尋控制 | 搜尋框+監聽
+PASS | 互動小測驗 | 回饋+正確答案
+
+總結：15/15 通過

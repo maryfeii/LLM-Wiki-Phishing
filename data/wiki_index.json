@@ -1,0 +1,200 @@
+[
+  {
+    "chunk_id": "S01-C1",
+    "source_id": "S01",
+    "section": "基礎定義",
+    "text": "網路釣魚是一種數位社交工程：攻擊者使用看似真實的假訊息，要求使用者提供資料或前往假網站。",
+    "keywords": [
+      "定義",
+      "社交工程",
+      "冒充"
+    ]
+  },
+  {
+    "chunk_id": "S01-C2",
+    "source_id": "S01",
+    "section": "基礎定義",
+    "text": "釣魚核心是冒充可信角色誘導行動",
+    "keywords": [
+      "定義",
+      "社交工程",
+      "冒充"
+    ]
+  },
+  {
+    "chunk_id": "S01-C3",
+    "source_id": "S01",
+    "section": "基礎定義",
+    "text": "不能僅以文法錯誤判斷真假",
+    "keywords": [
+      "定義",
+      "社交工程",
+      "冒充"
+    ]
+  },
+  {
+    "chunk_id": "S02-C1",
+    "source_id": "S02",
+    "section": "辨識與應對",
+    "text": "詐騙訊息可能假冒企業或機構，要求點擊連結、提供個資；應使用自己知道的官方聯絡管道查證，不要直接使用可疑訊息中的連結。",
+    "keywords": [
+      "警訊",
+      "查證",
+      "防範"
+    ]
+  },
+  {
+    "chunk_id": "S02-C2",
+    "source_id": "S02",
+    "section": "辨識與應對",
+    "text": "核對寄件者、網域、請求內容與緊迫語氣",
+    "keywords": [
+      "警訊",
+      "查證",
+      "防範"
+    ]
+  },
+  {
+    "chunk_id": "S02-C3",
+    "source_id": "S02",
+    "section": "辨識與應對",
+    "text": "遭遇疑似釣魚時不要點可疑連結，改由官方管道聯絡",
+    "keywords": [
+      "警訊",
+      "查證",
+      "防範"
+    ]
+  },
+  {
+    "chunk_id": "S03-C1",
+    "source_id": "S03",
+    "section": "網站偵測",
+    "text": "假網站會透過模仿可信網站誘使使用者洩露密碼等敏感資料；Safe Browsing 對已辨識的欺騙性網站顯示警告。",
+    "keywords": [
+      "假網站",
+      "瀏覽器",
+      "Safe Browsing"
+    ]
+  },
+  {
+    "chunk_id": "S03-C2",
+    "source_id": "S03",
+    "section": "網站偵測",
+    "text": "假登入頁是典型社交工程案例",
+    "keywords": [
+      "假網站",
+      "瀏覽器",
+      "Safe Browsing"
+    ]
+  },
+  {
+    "chunk_id": "S03-C3",
+    "source_id": "S03",
+    "section": "網站偵測",
+    "text": "瀏覽器警示是輔助保護，不等同所有新網站都已被偵測",
+    "keywords": [
+      "假網站",
+      "瀏覽器",
+      "Safe Browsing"
+    ]
+  },
+  {
+    "chunk_id": "S04-C1",
+    "source_id": "S04",
+    "section": "防護工具",
+    "text": "以更新軟體、防毒保護、瀏覽器反釣魚警告以及查驗來源降低受騙風險；Microsoft Defender SmartScreen 可以協助封鎖已知釣魚網站。",
+    "keywords": [
+      "SmartScreen",
+      "保護",
+      "防禦"
+    ]
+  },
+  {
+    "chunk_id": "S04-C2",
+    "source_id": "S04",
+    "section": "防護工具",
+    "text": "保護工具是多層防禦的一部分",
+    "keywords": [
+      "SmartScreen",
+      "保護",
+      "防禦"
+    ]
+  },
+  {
+    "chunk_id": "S04-C3",
+    "source_id": "S04",
+    "section": "防護工具",
+    "text": "偵測結果不能取代人工查證",
+    "keywords": [
+      "SmartScreen",
+      "保護",
+      "防禦"
+    ]
+  },
+  {
+    "chunk_id": "S05-C1",
+    "source_id": "S05",
+    "section": "個人防護",
+    "text": "面對疑似網路釣魚與惡意訊息，應透過另一種可靠方式聯絡對方；良好帳號安全習慣有助於降低風險。",
+    "keywords": [
+      "獨立查證",
+      "MFA",
+      "個人防護"
+    ]
+  },
+  {
+    "chunk_id": "S05-C2",
+    "source_id": "S05",
+    "section": "個人防護",
+    "text": "透過獨立管道驗證是重要策略",
+    "keywords": [
+      "獨立查證",
+      "MFA",
+      "個人防護"
+    ]
+  },
+  {
+    "chunk_id": "S05-C3",
+    "source_id": "S05",
+    "section": "個人防護",
+    "text": "使用多重驗證增強帳號保護",
+    "keywords": [
+      "獨立查證",
+      "MFA",
+      "個人防護"
+    ]
+  },
+  {
+    "chunk_id": "S06-C1",
+    "source_id": "S06",
+    "section": "AI 時代的風險",
+    "text": "生成式 AI 可能讓釣魚訊息更自然、更有說服力；只要要求點擊連結、下載、轉帳、登入或交出敏感資訊，就需要多一層確認。",
+    "keywords": [
+      "生成式AI",
+      "風險",
+      "風險訊號"
+    ]
+  },
+  {
+    "chunk_id": "S06-C2",
+    "source_id": "S06",
+    "section": "AI 時代的風險",
+    "text": "語句自然不等於真實",
+    "keywords": [
+      "生成式AI",
+      "風險",
+      "風險訊號"
+    ]
+  },
+  {
+    "chunk_id": "S06-C3",
+    "source_id": "S06",
+    "section": "AI 時代的風險",
+    "text": "應依請求內容與來源多重判斷",
+    "keywords": [
+      "生成式AI",
+      "風險",
+      "風險訊號"
+    ]
+  }
+]

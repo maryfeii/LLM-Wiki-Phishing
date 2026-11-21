@@ -1,0 +1,104 @@
+[
+  {
+    "id": "S01",
+    "organization": "NIST",
+    "title": "Phishing — CSRC Glossary",
+    "url": "https://csrc.nist.gov/glossary/term/phishing",
+    "topic": "基礎定義",
+    "summary": "網路釣魚是一種數位社交工程：攻擊者使用看似真實的假訊息，要求使用者提供資料或前往假網站。",
+    "points": [
+      "釣魚核心是冒充可信角色誘導行動",
+      "不能僅以文法錯誤判斷真假"
+    ],
+    "tags": [
+      "定義",
+      "社交工程",
+      "冒充"
+    ]
+  },
+  {
+    "id": "S02",
+    "organization": "FTC",
+    "title": "How To Recognize and Avoid Phishing Scams",
+    "url": "https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams",
+    "topic": "辨識與應對",
+    "summary": "詐騙訊息可能假冒企業或機構，要求點擊連結、提供個資；應使用自己知道的官方聯絡管道查證，不要直接使用可疑訊息中的連結。",
+    "points": [
+      "核對寄件者、網域、請求內容與緊迫語氣",
+      "遭遇疑似釣魚時不要點可疑連結，改由官方管道聯絡"
+    ],
+    "tags": [
+      "警訊",
+      "查證",
+      "防範"
+    ]
+  },
+  {
+    "id": "S03",
+    "organization": "Google",
+    "title": "Social Engineering (Phishing and Deceptive Sites)",
+    "url": "https://developers.google.com/search/docs/monitor-debug/security/social-engineering",
+    "topic": "網站偵測",
+    "summary": "假網站會透過模仿可信網站誘使使用者洩露密碼等敏感資料；Safe Browsing 對已辨識的欺騙性網站顯示警告。",
+    "points": [
+      "假登入頁是典型社交工程案例",
+      "瀏覽器警示是輔助保護，不等同所有新網站都已被偵測"
+    ],
+    "tags": [
+      "假網站",
+      "瀏覽器",
+      "Safe Browsing"
+    ]
+  },
+  {
+    "id": "S04",
+    "organization": "Microsoft",
+    "title": "Protect yourself from online scams and attacks",
+    "url": "https://support.microsoft.com/en-us/support/protect-yourself-from-online-scams-and-attacks",
+    "topic": "防護工具",
+    "summary": "以更新軟體、防毒保護、瀏覽器反釣魚警告以及查驗來源降低受騙風險；Microsoft Defender SmartScreen 可以協助封鎖已知釣魚網站。",
+    "points": [
+      "保護工具是多層防禦的一部分",
+      "偵測結果不能取代人工查證"
+    ],
+    "tags": [
+      "SmartScreen",
+      "保護",
+      "防禦"
+    ]
+  },
+  {
+    "id": "S05",
+    "organization": "FBI",
+    "title": "Stay Safe Online: Simple Tips for Adults",
+    "url": "https://www.fbi.gov/how-we-can-help-you/online-safety/stay-safe-online-simple-tips-for-adults",
+    "topic": "個人防護",
+    "summary": "面對疑似網路釣魚與惡意訊息，應透過另一種可靠方式聯絡對方；良好帳號安全習慣有助於降低風險。",
+    "points": [
+      "透過獨立管道驗證是重要策略",
+      "使用多重驗證增強帳號保護"
+    ],
+    "tags": [
+      "獨立查證",
+      "MFA",
+      "個人防護"
+    ]
+  },
+  {
+    "id": "S06",
+    "organization": "NIST",
+    "title": "Phishing — Small Business Cybersecurity",
+    "url": "https://www.nist.gov/itl/smallbusinesscyber/guidance-topic/phishing",
+    "topic": "AI 時代的風險",
+    "summary": "生成式 AI 可能讓釣魚訊息更自然、更有說服力；只要要求點擊連結、下載、轉帳、登入或交出敏感資訊，就需要多一層確認。",
+    "points": [
+      "語句自然不等於真實",
+      "應依請求內容與來源多重判斷"
+    ],
+    "tags": [
+      "生成式AI",
+      "風險",
+      "風險訊號"
+    ]
+  }
+]
